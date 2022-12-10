@@ -4,8 +4,6 @@ PolyArtGen is a tool for converting an existing image into approximated, geometr
 
 **NOTE: Images with higher resolution will take significantly longer to render.**
 
-![Alt Text](readme_files/application_ui.png)
-
 ## Running the application
 
 Open a terminal, navigate directory and run the app.py
@@ -14,6 +12,8 @@ Open a terminal, navigate directory and run the app.py
 cd poly-art-gen
 python src/app.py 
 ```
+
+![Alt Text](readme_files/application_ui.png)
 
 ## Using
 
