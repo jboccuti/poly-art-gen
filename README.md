@@ -6,6 +6,15 @@ PolyArtGen is a tool for converting an existing image into approximated, geometr
 
 ![Alt Text](readme_files/application_ui.png)
 
+## Running the application
+
+Open a terminal, navigate directory and run the app.py
+
+```
+cd poly-art-gen
+python src/app.py 
+```
+
 ## Using
 
 Using PolyArtGen is very simple:
@@ -35,15 +44,21 @@ All test images are sourced from the [Hubble Space Telescope](https://esahubble.
 
 ### **heic0515a**
 
+![Alt Text](test_images/heic0515a-sm.jpg)
+
 Credit:
 NASA, ESA and Allison Loll/Jeff Hester (Arizona State University). Acknowledgement: Davide De Martin (ESA/Hubble)
 
 ### **heic1310a**
 
+![Alt Text](test_images/heic1310a.jpg)
+
 Credit:
 NASA, ESA, and C. Robert O’Dell (Vanderbilt University)
 
 ### **heic1501a**
+
+![Alt Text](test_images/heic1501a-sm.jpg)
 
 Credit:
 NASA, ESA/Hubble and the Hubble Heritage Team
